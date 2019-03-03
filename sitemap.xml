@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+xmlns="http://www.google.com/schemas/sitemap/0.84"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+<url>
+  <loc>http://www.creacionpaginasweb.com/</loc>
+  <priority>0.75</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/index.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/empresa.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/productos.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/contacto.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/soporte.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.creacionpaginasweb.com/facturacion/order/index.php</loc>
+  <priority>0.25</priority>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
